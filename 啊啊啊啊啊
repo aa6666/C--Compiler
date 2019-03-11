@@ -1,0 +1,8 @@
+#include<stddio.h>
+int main(void)
+{
+int num;
+num = 1;
+
+printf("i am a simple");
+}
